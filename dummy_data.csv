@@ -1,0 +1,11 @@
+Date,Username,Email,Phone,UserID,Address,City,State,Zip,Country
+2025-01-01,user1,user1@example.com,123-456-7890,UID001,123 Main St,New York,NY,10001,USA
+2025-01-02,user2,user2@example.com,234-567-8901,UID002,456 Elm St,Los Angeles,CA,90001,USA
+2025-01-03,user3,user3@example.com,345-678-9012,UID003,789 Pine St,Chicago,IL,60601,USA
+2025-01-04,user4,user4@example.com,456-789-0123,UID004,321 Oak St,Houston,TX,77001,USA
+2025-01-05,user5,user5@example.com,567-890-1234,UID005,654 Maple St,Phoenix,AZ,85001,USA
+2025-01-06,user6,user6@example.com,678-901-2345,UID006,987 Cedar St,Philadelphia,PA,19101,USA
+2025-01-07,user7,user7@example.com,789-012-3456,UID007,147 Birch St,San Antonio,TX,78201,USA
+2025-01-08,user8,user8@example.com,890-123-4567,UID008,258 Walnut St,San Diego,CA,92101,USA
+2025-01-09,user9,user9@example.com,901-234-5678,UID009,369 Ash St,Dallas,TX,75201,USA
+2025-01-10,user10,user10@example.com,012-345-6789,UID010,741 Spruce St,San Jose,CA,95101,USA
